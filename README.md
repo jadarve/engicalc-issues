@@ -1,2 +1,2 @@
-# engicalc-issues
-Issue tracker for Engicalc application
+# EngiNotes-issues
+Issue tracker for EngiNotes.
